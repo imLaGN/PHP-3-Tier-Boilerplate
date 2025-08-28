@@ -4,7 +4,7 @@ A lightweight **Three-Tier Architecture** boilerplate for PHP applications (No f
 ---
 
 ## Project Requirements
-- **PHP**: 8.4
+- **PHP**: 8.4 (Exact version used: 8.4.12) 
 
 ---
 
@@ -12,7 +12,7 @@ A lightweight **Three-Tier Architecture** boilerplate for PHP applications (No f
 
 ### Option 1: Using a Direct PHP Executable
 1. Export PHP 8.4 in a directory, for example: 'C:\PHP\'
-2. Open a terminal in your project `src` directory and start the server:
+2. Open a terminal in your project `src\Public` directory and start the server:
 ```cmd
 C:\PHP\php.exe -S localhost:8000
 ```
@@ -31,4 +31,4 @@ php -v
 
 ## Notes
  - This boilerplate uses a custom autoloader, routing, and 3-tier architecture without any external frameworks.
- - Recommended for learning or starting small PHP projects with MVC separation.
+ - This project is mostly intended for myself; for reference, experimental and testing purposes mostly. But feel free to reuse the codes as you please.

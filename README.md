@@ -4,7 +4,7 @@ A lightweight **Three-Tier Architecture** boilerplate for PHP applications (No f
 ---
 
 ## Project Requirements
-- **PHP**: 8.4
+- **PHP**: 8.4.12
 
 ---
 
